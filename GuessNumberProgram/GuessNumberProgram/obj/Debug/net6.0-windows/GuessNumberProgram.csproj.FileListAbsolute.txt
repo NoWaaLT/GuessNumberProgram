@@ -1,0 +1,17 @@
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\bin\Debug\net6.0-windows\GuessNumberProgram.exe
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\bin\Debug\net6.0-windows\GuessNumberProgram.deps.json
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\bin\Debug\net6.0-windows\GuessNumberProgram.runtimeconfig.json
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\bin\Debug\net6.0-windows\GuessNumberProgram.dll
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\bin\Debug\net6.0-windows\GuessNumberProgram.pdb
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\obj\Debug\net6.0-windows\GuessNumberProgram.csproj.AssemblyReference.cache
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\obj\Debug\net6.0-windows\GuessNumberProgram.Form1.resources
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\obj\Debug\net6.0-windows\GuessNumberProgram.csproj.GenerateResource.cache
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\obj\Debug\net6.0-windows\GuessNumberProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\obj\Debug\net6.0-windows\GuessNumberProgram.AssemblyInfoInputs.cache
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\obj\Debug\net6.0-windows\GuessNumberProgram.AssemblyInfo.cs
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\obj\Debug\net6.0-windows\GuessNumberProgram.csproj.CoreCompileInputs.cache
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\obj\Debug\net6.0-windows\GuessNumberProgram.dll
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\obj\Debug\net6.0-windows\refint\GuessNumberProgram.dll
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\obj\Debug\net6.0-windows\GuessNumberProgram.pdb
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\obj\Debug\net6.0-windows\GuessNumberProgram.genruntimeconfig.cache
+C:\Users\vytau\source\repos\GuessNumberProgram\GuessNumberProgram\obj\Debug\net6.0-windows\ref\GuessNumberProgram.dll
